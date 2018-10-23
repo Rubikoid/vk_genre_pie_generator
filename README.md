@@ -7,4 +7,4 @@ This script can auth you in vk and generate plot.ly diagram with your audio's ge
 Кроме того, конфиг содержит данные для доступа к plot.ly, они требуются для генерации красивых картинов.
 
 Для авторизации ВК надо или вставить токен, которому можно в аудио, например, сосниффать с мобилки, либо вставить магическую константку.
-Как её достать - опиано [тут](https://github.com/alashow/datmusic-api)
+Как её достать - опиано [тут](https://github.com/vodka2/vk-audio-token)
